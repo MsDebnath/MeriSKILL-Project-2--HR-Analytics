@@ -51,3 +51,14 @@ The datase has 35 columns.
   * Employee Number
   * Employee Count
   * Total Working Years
+
+## Visualization
+
+![HR Analytics](https://github.com/MsDebnath/MeriSKILL-Project-2--HR-Analytics/assets/134738648/f59736a6-e287-4f38-933b-bd49d7ff9b29)
+![HR Analytics D](https://github.com/MsDebnath/MeriSKILL-Project-2--HR-Analytics/assets/134738648/8d0d5128-2dcb-4c28-b57d-28f4595b8423)
+![HR Analytics TA1](https://github.com/MsDebnath/MeriSKILL-Project-2--HR-Analytics/assets/134738648/ea9a2a60-eaa7-4796-8a46-be9252ab2a06)
+![HR Analytics TA2](https://github.com/MsDebnath/MeriSKILL-Project-2--HR-Analytics/assets/134738648/3916acdc-5c4d-44c0-bc6a-742837f295ab)
+![HR Analytics EW](https://github.com/MsDebnath/MeriSKILL-Project-2--HR-Analytics/assets/134738648/931cc5d5-2b43-4198-9469-513f3855701b)
+
+## Insights
+
