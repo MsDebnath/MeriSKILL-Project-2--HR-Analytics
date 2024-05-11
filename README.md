@@ -1,4 +1,4 @@
-# MeriSKILL-Project-2--HR-Analytics
+# MeriSKILL-Project-2-[HR-Analytics]
 Delving into the world of human resources, with a keen eye on data analysis to optimize talent management and organizational performance.
 
 ## Introduction
@@ -129,3 +129,104 @@ The datase has 35 columns.
   - Attrition is not uniform across departments or job roles, indicating specific challenges that need targeted solutions.
   - Understanding the factors contributing to attrition, such as job satisfaction, work environment, and career development opportunities, is crucial for implementing effective retention strategies.
   - Addressing department-specific issues and providing support for employees at all tenure levels can help mitigate attrition and improve overall employee satisfaction and retention.
+
+### _Turnover Analysis II_
+**Income and Job Role Insights**:
+  - Employees in higher-paying roles like Manager and Research Director had relatively lower attrition compared to those in lower-paying roles like Laboratory Technician and Sales Representative.
+  - The average monthly income of employees who left varied significantly across different job roles, suggesting a potential correlation between income level and attrition.
+
+**Overtime and Attrition**:
+  - A higher proportion of employees who left used to do overtime, indicating a possible link between overtime work and attrition.
+  - This suggests that employees who felt overworked or burned out may have been more likely to leave the company.
+
+**Performance Rating and Attrition**:
+  - The majority of employees who left had low performance ratings, indicating a potential dissatisfaction with job expectations, performance evaluations, or career progression opportunities.
+  - Conversely, a small percentage of employees who left had high performance ratings, suggesting that factors other than performance may have contributed to their decision to leave.
+
+**Job Level and Attrition**:
+  - Entry-level employees accounted for the highest proportion of attrition, followed by Junior/Associate level employees.
+  - This could imply challenges in retaining early-career professionals and providing them with opportunities for growth and advancement within the company.
+
+**Age, Gender, and Attrition**:
+  - Attrition rates varied across different age groups and genders, with a higher number of males leaving across all age categories.
+  - The highest attrition rates were observed among employees aged 18 to 30, suggesting potential challenges in retaining younger talent.
+  - Gender disparities in attrition rates highlight the need for gender-sensitive retention strategies and a deeper understanding of the factors influencing attrition among different demographic groups.
+
+**Overall Insights**:
+  - Attrition is influenced by a combination of factors including income level, job role, overtime work, performance rating, job level, age, and gender.
+  - Strategies to mitigate attrition should consider addressing issues related to job satisfaction, workload, career development opportunities, and work-life balance across all levels of the organization.
+
+### _Employee Wellness_
+**Salary Insights**:
+  - The average monthly income of $6.5K suggests a relatively stable income level within the organization.
+  - The average hourly rate of $65.9 indicates a decent pay scale, potentially attracting skilled workers.
+
+**Income and Satisfaction**: 
+  - Despite the average monthly income being $6.5K, which seems competitive, there's significant attrition across various satisfaction levels.
+  - Notably, even employees who were satisfied or very satisfied with the work environment, work relationship, and job were among those who left. This suggests that factors beyond income play a crucial role in attrition.
+
+**Work Environment Satisfaction**:
+  - Dissatisfaction with the work environment is a significant driver of attrition, with 72 employees very dissatisfied and 43 dissatisfied.
+  - Conversely, 62 employees satisfied and 60 very satisfied left, indicating that even positive perceptions of the work environment don't guarantee retention.
+
+**Relationship Satisfaction**:
+  - Dissatisfaction with work relationships also contributes to attrition, with 71 employees dissatisfied and 57 very dissatisfied.
+  - However, a considerable number of employees (64) who were very satisfied with work relationships still left, suggesting that interpersonal dynamics are complex.
+
+**Job Satisfaction**:
+  - While 73 employees left despite being satisfied with their job, 66 left due to extreme dissatisfaction, and 46 left while being dissatisfied.
+  - Even employees who were very satisfied with their job (52) left, indicating that factors beyond job contentment are influencing attrition.
+
+**Job Involvement**:
+  - Attrition rates vary significantly based on job involvement levels, with the highest attrition among those with moderate involvement (125 employees).
+  - Low and very low job involvement also contribute substantially to attrition, emphasizing the importance of engagement in retention efforts.
+
+**Performance Rating**:
+  - A vast majority (200) of employees who left had low performance ratings, indicating a potential link between performance perception and attrition.
+  - Interestingly, 37 employees with high performance ratings still left, suggesting other factors may override individual performance in departure decisions.
+
+**Work-Life Balance**:
+  - Work-life balance seems to have a mixed impact on attrition, with a significant portion of employees leaving despite reporting good (53.59%) or excellent (11.39%) balance.
+  - However, it's notable that a considerable percentage (10.55%) of those who left reported bad work-life balance, indicating a need for better balance initiatives.
+
+**Overall Insights**:
+  - The data underscores that employee satisfaction is multi-dimensional, influenced by various aspects of the work environment, relationships, job contentment, involvement, performance perception, and work-life balance.
+  - Addressing attrition requires a holistic approach that considers and improves multiple facets of employee experience beyond just salary levels.
+
+
+## Recommendations
+- **Enhance Work Environment and Relationships**:
+  - Conduct regular surveys to identify pain points and areas for improvement in the work environment and relationships.
+  - Implement initiatives to foster a positive and inclusive work culture, such as team-building activities, mentorship programs, and communication workshops.
+
+- **Tailor Retention Strategies Based on Job Satisfaction**:
+  - Develop personalized retention plans for employees based on their job satisfaction levels, addressing specific concerns identified through feedback mechanisms.
+  - Provide opportunities for career growth, skill development, and recognition to enhance job satisfaction and engagement.
+
+- **Improve Job Involvement and Performance Management**:
+  - Offer training and development programs to increase job involvement and empower employees to take ownership of their roles.
+  - Revise performance management processes to provide constructive feedback, recognize achievements, and align individual goals with organizational objectives.
+
+- **Promote Work-Life Balance**:
+  - Implement flexible work arrangements, telecommuting options, and wellness programs to support employees in achieving a healthy work-life balance.
+  - Encourage managers to prioritize workload distribution, set realistic expectations, and promote a culture of work-life balance.
+
+- **Address Gender Disparities and Demographic Challenges**:
+  - Conduct diversity and inclusion training to raise awareness of unconscious biases and promote gender equality in the workplace.
+  - Offer targeted support and resources for demographic groups experiencing higher attrition rates, such as younger employees and single individuals.
+
+- **Revise Compensation and Benefits Packages**:
+  - Review salary structures and benchmark against industry standards to ensure competitiveness and equity.
+  - Enhance benefits packages to include perks like wellness programs, childcare assistance, and professional development opportunities.
+
+- **Provide Continuous Feedback and Support**:
+  - Establish regular check-ins between employees and managers to discuss challenges, provide support, and address concerns proactively.
+  - Create a culture of open communication and transparency where employees feel comfortable expressing their needs and feedback.
+
+- **Invest in Leadership Development**:
+  - Offer leadership training programs to equip managers with the skills and tools to effectively lead and engage their teams.
+  - Foster a supportive and empowering leadership style that values employee development, feedback, and well-being.
+
+- **Monitor and Evaluate Retention Efforts**:
+  - Track key metrics related to attrition, employee satisfaction, and engagement to measure the effectiveness of retention initiatives.
+  - Continuously gather feedback from employees and iterate on retention strategies based on insights and trends identified through data analysis.
