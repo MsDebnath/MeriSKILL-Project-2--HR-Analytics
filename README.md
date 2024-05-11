@@ -62,4 +62,70 @@ The datase has 35 columns.
 
 ## Insights
 
+### _Demographics_
+**Demographics Insights:**
 
+- **Total Employees**: The company has a workforce of 1470 employees.
+- **Attrition Rate**: A notable portion of the workforce, 16% (237 employees), left the company.
+- **Retention Rate**: Despite the attrition, 84% (1233 employees) of the total workforce remained in the company.
+- **Gender Disparity**: Male employee attrition is significantly higher at 63% compared to female attrition at 37%. This suggests potential gender-specific issues affecting retention.
+  
+**Education Field Insights:**
+
+- **Life Science**: The highest attrition rate is seen among employees with a background in Life Science, with 89 out of 606 employees leaving. This field has the highest total attrition.
+- **Medical and Marketing Fields**: While attrition rates are relatively lower in these fields, a considerable number of employees still left (63 and 35 respectively).
+- **Technical Degree and Other Fields**: Attrition rates in these fields are moderate compared to others, indicating a relatively stable workforce.
+
+**Age Group Insights:**
+
+- **Youth Attrition**: The highest attrition occurs in the age group of 18 to 30, suggesting potential issues related to early career development, job satisfaction, or work-life balance.
+- **Middle-Aged Employees**: Attrition rates decrease with age, indicating potentially higher job stability or satisfaction among older employees.
+
+**Work-life Balance Insights:**
+
+- **Work-life Balance Impact**: Employees with a good work-life balance represent the highest proportion of those who left the company. This suggests that factors beyond work-life balance alone may be contributing to attrition.
+- **Excellent Work-life Balance**: Surprisingly, employees with an excellent work-life balance also contributed to attrition, albeit in smaller numbers.
+
+**Distance from Home Insights:**
+
+- **Proximity to Home**: Attrition rates are highest among employees living near the workplace, which may suggest that factors other than commuting distance are influencing their decisions to leave.
+
+**Marital Status Insights:**
+
+- **Single Employees**: Single employees form the largest group in terms of attrition. There is a gender disparity within this group, with more male single employees leaving compared to females.
+- **Married and Divorced Employees**: Attrition rates among married and divorced employees are lower compared to single employees, with married males showing higher attrition compared to females.
+
+**Overall Implications:**
+
+- The data suggests that attrition is influenced by a combination of factors including education field, age, work-life balance, distance from home, and marital status.
+- Understanding these demographics can help tailor retention strategies to address specific needs and challenges faced by different employee groups.
+- There's a need for further analysis to identify underlying reasons behind gender disparities in attrition rates and to develop targeted interventions to mitigate them.
+
+### _Turnover Analysis I_
+**Average Working Year and Total Job Roles**:
+  - The average tenure of employees is relatively long, with an average of 11.28 years.
+  - There are 9 different job roles within the company, indicating a diverse workforce.
+**Job Role Analysis**:
+  - The Laboratory Technician role experienced the highest attrition, followed closely by Sales Executive and Research Scientist positions.
+  - This suggests potential issues within these roles or departments that need addressing to improve retention.
+
+**Departmental Attrition**:
+  - The Research and Development department had the highest attrition rate at 56%, indicating potential challenges or dissatisfaction within this department.
+  - Sales department followed with 39% attrition, which could indicate issues related to sales targets, work culture, or job satisfaction.
+
+**Business Travel Impact**:
+  - Employees who rarely traveled for business had the highest attrition rate, suggesting that frequent travel might not be a significant factor in attrition.
+  - Interestingly, a notable portion of non-business travelers also left, indicating other factors influencing their decision to leave.
+
+**Tenure in Current Role**:
+  - A significant number of employees who left were in their roles for less than 2 years, especially in the Research and Development department.
+  - This could indicate challenges with onboarding, job fit, or dissatisfaction with the role or company culture among newer employees.
+
+**Longer Tenure Attrition**:
+  - While attrition was higher among employees with shorter tenures, there were still cases of attrition among those with longer tenures, particularly in the Sales department.
+  - This suggests that factors contributing to attrition may vary regardless of tenure, warranting further investigation into department-specific issues.
+
+**Overall Insights**:
+  - Attrition is not uniform across departments or job roles, indicating specific challenges that need targeted solutions.
+  - Understanding the factors contributing to attrition, such as job satisfaction, work environment, and career development opportunities, is crucial for implementing effective retention strategies.
+  - Addressing department-specific issues and providing support for employees at all tenure levels can help mitigate attrition and improve overall employee satisfaction and retention.
