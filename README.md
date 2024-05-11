@@ -58,6 +58,8 @@ The datase has 35 columns.
 ![HR Analytics D](https://github.com/MsDebnath/MeriSKILL-Project-2--HR-Analytics/assets/134738648/8d0d5128-2dcb-4c28-b57d-28f4595b8423)
 ![HR Analytics TA1](https://github.com/MsDebnath/MeriSKILL-Project-2--HR-Analytics/assets/134738648/ea9a2a60-eaa7-4796-8a46-be9252ab2a06)
 ![HR Analytics TA2](https://github.com/MsDebnath/MeriSKILL-Project-2--HR-Analytics/assets/134738648/3916acdc-5c4d-44c0-bc6a-742837f295ab)
-![HR Analytics EW](https://github.com/MsDebnath/MeriSKILL-Project-2--HR-Analytics/assets/134738648/d4d9d502-da5d-49d1-89a7-4eaddba09b3c)
+![HR Analytics EW](https://github.com/MsDebnath/MeriSKILL-Project-2--HR-Analytics/assets/134738648/90f28495-98df-4b0c-8523-237856f7ad89)
 
 ## Insights
+
+
